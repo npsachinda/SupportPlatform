@@ -18,7 +18,7 @@ Route::get('/', function () {
 });*/
 
 use App\Tickets;
-use Request;
+//use Request;
 
 Route::get('/', 'TicketsController@create');
 
