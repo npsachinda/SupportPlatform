@@ -4,11 +4,11 @@ Getting Started
 
 Clone the project repository by running the command below if you use SSH
 
-git clone 
+git clone git@github.com:npsachinda/SupportPlatform.git
 
 If you use https, use this instead
 
-git clone 
+git clone https://github.com/npsachinda/SupportPlatform.git
 
 Run the command below to install Laravel dependencies
 
