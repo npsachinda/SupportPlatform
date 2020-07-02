@@ -11,7 +11,7 @@ class AppMailer {
 	 * from email address
 	 
 	 */
-	protected $fromAddress = 'buvinduproducts@gmail.com';
+	protected $fromAddress = 'laravelticketmgt2020@gmail.com';
 
 	/**
 	 * from name
